@@ -1,0 +1,154 @@
+
+
+.header-area {
+    background: #F6FFFF;
+}
+
+.nav-item {
+    padding: 0px 10px;
+}
+
+.nav-item .nav-link {
+    color: #000;
+}
+
+.navbar .navbar-toggler-icon {
+    color: #000;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.navbar-brand img {
+    width: 250px;
+    height: 80px;
+}
+
+.custom-button {
+    border: none;
+    background: #14AC70;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 20px;
+}
+
+
+.banner-area {
+    background: #F6FFFF;
+    padding: 50px 0px;
+}
+
+.pra-style {
+    color: red;
+}
+
+.heading-style {
+    font-size: 50px;
+}
+
+.head-style {
+    color: green;
+    font-weight: 100px;
+}
+
+.pra-style2 {
+    color: gray;
+}
+
+.get-start-button {
+    background-color: green;
+    color: wheat;
+    border: 10px 20px;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin: 20px 30px;
+}
+.h4-style {
+    color: darkslategray;
+}
+
+.h6-style {
+    color: gray;
+}
+
+.counter-area {
+    padding: 60px 0px;
+}
+
+.c-box {
+    width: 250px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #F8FFFB;
+}
+
+.c-box:hover {
+    box-shadow: 5px 5px 17px 0px gray;
+}
+
+/*--fourth-part--*/
+
+
+/*courses-area-style*/
+.online-courses-area {
+    margin-bottom: 80px;
+}
+.area-title h2 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #413960;
+    margin-bottom: 40px;
+}
+.card {
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    box-shadow: 5px 5px 17px 0px gray;
+}
+.card-title {
+    font-size: 20px;
+    color: #413960;
+}
+.card-text {
+    color: #585859;
+}
+.card-footer {
+    padding: 1rem 1.25rem;
+    background-color: rgba(0, 0, 0, 0);
+    border-top: none;
+}
+.calendar img,
+.people img {
+    width: 20px;
+    height: 20px;
+}
+.calendar p,
+.people p {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+/*-footer-area-style*/
+.footer-area {
+    margin-top: 60px;
+    margin-bottom: 30px;
+    padding: 40px;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    color: whitesmoke;
+
+}
+
+/*footer-style*/
+.footer-copyright{
+    margin-top: 50px;
+}
